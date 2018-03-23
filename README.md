@@ -14,11 +14,10 @@ The app code in `rottenpotatoes` contains a "canonical" solution to the
 Rails Intro assignment against which to write your scenarios, and the
 necessary scaffolding for the first couple of scenarios. 
 
-Fork this repo to your GitHub account, then clone the fork to your
-development environment:
+Clone the repo to your development environment:
 
 ```sh
-$ git clone git@github.com:your_github_username/hw-bdd-cucumber.git
+$ git clone https://github.com/itsc3155/homework-5-bdd-cucumber-yourUsername
 ```
 
 We recommend
