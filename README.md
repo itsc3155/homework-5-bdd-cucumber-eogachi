@@ -14,7 +14,7 @@ The app code in `rottenpotatoes` contains a "canonical" solution to the
 Rails Intro assignment against which to write your scenarios, and the
 necessary scaffolding for the first couple of scenarios. 
 
-You can use the github classroom link in edx to create your repo for this assignment.
+You can use the github classroom link in Canvas to create your repo for this assignment.
 Then you can clone it into Cloud 9 like below.
 
 ```sh
