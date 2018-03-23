@@ -14,7 +14,8 @@ The app code in `rottenpotatoes` contains a "canonical" solution to the
 Rails Intro assignment against which to write your scenarios, and the
 necessary scaffolding for the first couple of scenarios. 
 
-Clone the repo to your development environment:
+You can use the github classroom link in edx to create your repo for this assignment.
+Then you can clone it into Cloud 9 like below.
 
 ```sh
 $ git clone https://github.com/itsc3155/homework-5-bdd-cucumber-yourUsername
